@@ -48,7 +48,7 @@
 <img src="Images/SectorSize.png" alt="Alt Text" Width="900" heigth="300">
 
 #### State Name
-<img src="Images/StateNme.png" alt="Alt Text" Width="900" heigth="300">
+<img src="Images/US DATA JOB.png" alt="Alt Text" Width="900" heigth="300">
 
 #### US DATA JOBS
 <img src="Images/US DATA JOB.png" alt="Alt Text" Width="900" heigth="300">
