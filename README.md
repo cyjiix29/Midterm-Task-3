@@ -55,7 +55,7 @@
 <img src="Images/US DATA JOBS.png" alt="Alt Text" Width="900" heigth="300">
 
 #### Map
-<img src="Images/US DATA JOBS.png" alt="Alt Text" Width="900" heigth="300">
+<img src="Images/Map.png" alt="Alt Text" Width="900" heigth="300">
 
 
 
