@@ -35,17 +35,22 @@
  
 
 # Screenshots During Analysis
-- Sal by Size
+#### Sal by Size
 <img src="Images/CompanySize.png" alt="Alt Text" Width="900" heigth="300">
-- Sal by Role Type
+
+#### Sal by Role Type
 <img src="Images/RoleType.png" alt="Alt Text" Width="900" heigth="300">
-- Sector by Average Sal
+
+#### Sector by Average Sal
 <img src="Images/SectorAveSal.png" alt="Alt Text" Width="900" heigth="300">
-- Sector by Size
+
+#### Sector by Size
 <img src="Images/SectorSize.png" alt="Alt Text" Width="900" heigth="300">
-- State Name
-<img src="Images/StateName.png" alt="Alt Text" Width="900" heigth="300">
-US DATA JOBS
+
+#### State Name
+<img src="Images/StateNme.png" alt="Alt Text" Width="900" heigth="300">
+
+#### US DATA JOBS
 <img src="Images/US DATA JOB.png" alt="Alt Text" Width="900" heigth="300">
 <img src="Images/US DATA JOBS.png" alt="Alt Text" Width="900" heigth="300">
 
