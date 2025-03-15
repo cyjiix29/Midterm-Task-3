@@ -3,9 +3,9 @@
 ## Here's the Step by Step Process
 - Use the given data  
    - Open the Worksheet on Uncleaned DS Jobs and the Transform Tables:  
-     - Sal By Role  
-     - Sal By State  
-     - Sal By Size
+      - Sal By Role  
+      - Sal By State  
+      - Sal By Size
 -
 -  Design the dashboard to highlight the following:  
    - State with the most Data Science jobs  
@@ -51,8 +51,8 @@
 <img src="Images/StateNme.png" alt="Alt Text" Width="900" heigth="300">
 
 #### US DATA JOBS
-<img src="Images/US DATA JOB.png" alt="Alt Text" Width="900" heigth="300">
-<img src="Images/US DATA JOBS.png" alt="Alt Text" Width="900" heigth="300">
+<img src="Images/USDATA1.png" alt="Alt Text" Width="900" heigth="300">
+<img src="Images/USDATA2.png" alt="Alt Text" Width="900" heigth="300">
 
 #### Map
 <img src="Images/Map.png" alt="Alt Text" Width="900" heigth="300">
