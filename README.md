@@ -6,7 +6,7 @@
       - Sal By Role  
       - Sal By State  
       - Sal By Size
--
+
 -  Design the dashboard to highlight the following:  
    - State with the most Data Science jobs  
    - Job role with the highest average salary  
